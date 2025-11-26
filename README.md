@@ -4,7 +4,7 @@ A comprehensive AI-powered content creation and image processing platform built 
 
 ## 🌐 Public URL
 
-**[Add your project URL here]**
+**https://quick-ai-main-taupe.vercel.app/**
 
 ## 🚀 Features
 
@@ -186,14 +186,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Clerk for authentication
 - Neon for database hosting
 
-## 📞 Support
 
-For support, email support@quickai.com or join our Discord community.
-
-## 🔄 Future Enhancements
-
-See [FUTURE_ENHANCEMENTS.md](FUTURE_ENHANCEMENTS.md) for planned features and improvements.
-
-## 📋 Project Limitations
-
-See [PROJECT_LIMITATIONS.md](PROJECT_LIMITATIONS.md) for current limitations and known issues.
